@@ -6,7 +6,7 @@ Pertemuan: 10
 
 Repository GitHub
 
-Link Repository: https://github.com/username/perpustakaan2
+Link Repository: [https://github.com/username/perpustakaan2](https://github.com/Sofiyana10/Tugas_10_Pemrograman_web_2.git)
 
 Screenshot Migration dan Seeder
 <img width="1366" height="768" alt="Screenshot Migration dan Seeder" src="https://github.com/user-attachments/assets/0a51debf-4d82-4d3a-965a-2da34bcac515" />
